@@ -13,7 +13,7 @@ Atualmente estou cursando Analise e desenvolvimento de Sistemas.
 
 ---
 
-## Oque eu faço
+## O que eu faço
 
 - automação & integração
 
