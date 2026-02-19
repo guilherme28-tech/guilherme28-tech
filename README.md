@@ -9,10 +9,6 @@ Atualmente estou cursando Analise e desenvolvimento de Sistemas.
 
 ## Onde me achar
 
-<p align="left">
-  <a href="https://github.com/guilherme-tech28">
-    <img src="https://img.shields.io/badge/GitHub-guilherme-tech28-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://instagram.com/guick0">
     <img src="https://img.shields.io/badge/Instagram-@guick0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
