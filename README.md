@@ -2,7 +2,6 @@
 
 Sou estudante da área de Tecnologia, tenho conhecimento sobre python,
 infraestrutura de TI, serviços de redes, software, hardware, normas e padrões técnicos.
-Atualmente estou cursando Analise e desenvolvimento de Sistemas.
 
 ---
 
