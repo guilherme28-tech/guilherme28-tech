@@ -1,51 +1,56 @@
-# 👨‍💻 Guilherme Monteiro  
-### Desenvolvedor Back-end | Python
+# 👋 Olá, eu sou Fábio Guilherme
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento back-end utilizando **Python**.  
-Tenho interesse em construção de APIs, automação de processos e integração entre sistemas.
-
-Busco aplicar boas práticas de código, organização, versionamento e estruturação de projetos, evoluindo constantemente através de projetos práticos e estudo contínuo.
-
----
-
-## 🎯 Objetivo
-
-Atuar como estagiário ou desenvolvedor júnior na área de Back-end, contribuindo com soluções eficientes, bem estruturadas e escaláveis.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🐍 Focado em desenvolvimento com Python, automações e futuramente desenvolvimento web  
+🚀 Construindo projetos para evoluir lógica, arquitetura e boas práticas de programação  
+📚 Sempre aprendendo novas tecnologias e explorando soluções reais com código  
 
 ---
 
-## 🛠️ Stack & Tecnologias
+# 🚀 Stack & Tecnologias
 
-### 💻 Linguagens
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🐍 Python & Desenvolvimento
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-121212?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+
+### 🤖 Automação & Ferramentas
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-20232A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🗄️ Banco de Dados
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚙️ Conceitos & Conhecimentos
-- Programação Orientada a Objetos (POO)
-- Estruturação de projetos
-- Automação de tarefas
-- Integração de sistemas
-- Fundamentos de redes e infraestrutura de TI
-- Versionamento com Git
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📂 O que você vai encontrar aqui
+# 🧠 Áreas de Interesse
 
-- Projetos práticos em Python   
-- Experimentos com automação  
-- Minha evolução como desenvolvedor
+- 🤖 Automações com Python
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de Dados
+- ⚙️ Back-end
+- 🧩 Arquitetura de Software
 
 ---
 
-## 📫 Contato
+# 📌 Projetos
 
-<a href="mailto:guif4080@gmail.com">
-  <img src="https://img.shields.io/badge/Email-guif4080%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+🔹 Sistema de esteganografia com interface gráfica  
+🔹 Projetos de automação em Python  
+🔹 Projetos acadêmicos e estudos voltados para back-end  
 
-<a href="https://instagram.com/guick0">
-  <img src="https://img.shields.io/badge/Instagram-@guick0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+---
+
+# 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermemonteiro2007/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guif4080@gmail.com)
+
+---
+
+⭐ Sempre buscando evoluir como desenvolvedor e transformar aprendizado em projetos práticos.
