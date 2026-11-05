@@ -1,56 +1,61 @@
-# 👋 Olá, eu sou Fábio Guilherme
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🐍 Focado em desenvolvimento com Python, automações e futuramente desenvolvimento web  
-🚀 Construindo projetos para evoluir lógica, arquitetura e boas práticas de programação  
-📚 Sempre aprendendo novas tecnologias e explorando soluções reais com código  
+<div align="center">
 
----
+# Olá, eu sou Fábio Guilherme
 
-# 🚀 Stack & Tecnologias
+**Desenvolvedor Back-end em formação**
 
-### 🐍 Python & Desenvolvimento
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-121212?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+<code>print("Hello, World!")</code>
 
-### 🤖 Automação & Ferramentas
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-20232A?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em Python, APIs REST e desenvolvimento de aplicações bem estruturadas.
 
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
 ---
 
-# 🧠 Áreas de Interesse
+### Tecnologias e ferramentas
 
-- 🤖 Automações com Python
-- 🌐 Desenvolvimento Web
-- 🗄️ Banco de Dados
-- ⚙️ Back-end
-- 🧩 Arquitetura de Software
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,flask,django,postgres,mongodb,git,github,docker&theme=dark" alt="Tecnologias" />
+</div>
 
----
-
-# 📌 Projetos
-
-🔹 Sistema de esteganografia com interface gráfica  
-🔹 Projetos de automação em Python  
-🔹 Projetos acadêmicos e estudos voltados para back-end  
+<p align="center">
+  <sub>SQLAlchemy · JWT · Selenium · Tkinter · Postman</sub>
+</p>
 
 ---
 
-# 📫 Contato
+### Projetos em destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermemonteiro2007/)
+**[API de Clientes com Flask](https://github.com/guilherme28-tech/API-clientes-flask)**  
+API REST com autenticação JWT, rotas protegidas, operações CRUD, logs e persistência de dados em PostgreSQL.  
+`Python` · `Flask` · `SQLAlchemy` · `PostgreSQL`
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guif4080@gmail.com)
+**Sistema para Barbearia** — *em desenvolvimento*  
+Desenvolvimento do back-end, incluindo autenticação, autorização, regras de negócio, sistema de logs e integração das funcionalidades.
+
+**Sistema de Esteganografia**  
+Aplicação desktop com interface gráfica em Tkinter para ocultar mensagens em imagens.  
+`Python` · `Tkinter`
 
 ---
 
-⭐ Sempre buscando evoluir como desenvolvedor e transformar aprendizado em projetos práticos.
+### Aprendizado contínuo
+
+<p align="center">
+  Desenvolvimento de APIs · Arquitetura de software · Boas práticas de programação
+</p>
+
+---
+
+### Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU-EMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</div>
+  
