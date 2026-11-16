@@ -30,8 +30,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em Python, API
 **[API de Clientes com Flask](https://github.com/guilherme28-tech/API-clientes-flask)**  
 API REST com autenticação JWT, rotas protegidas, operações CRUD, logs e persistência de dados em PostgreSQL.  
 `Python` · `Flask` · `SQLAlchemy` · `PostgreSQL`
-
-**Sistema para Barbearia** — *em desenvolvimento*  
+**[Sistema funcional para Barbearia](https://github.com/filipemtr/Realeza_Barbers)**
+**Sistema para Barbearia**  
 Desenvolvimento do back-end, incluindo autenticação, autorização, regras de negócio, sistema de logs e integração das funcionalidades.
 
 **Sistema de Esteganografia**  
